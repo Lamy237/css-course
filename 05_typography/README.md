@@ -4,6 +4,8 @@
 
 ## Some Properties
 
+**Note :** The following table **does not** contain all the properties related to Typography.
+
 <table>
   <thead>
     <tr>
@@ -57,4 +59,4 @@
 
 <br>
 
-**Note :** Of course the above table **does not** contain all the properties related to Typography.
+**Note :** You can also import fonts from [Google Fonts](https://fonts.google.com/) for the `font-familly`.
