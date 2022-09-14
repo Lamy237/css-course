@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row" rowspan="4">Text</th>
+      <th scope="row" rowspan="5">Text</th>
       <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration">text-decoration</a></td>
       <td>Specifies the decoration added to text (<em>underline, overline, ...etc</em>).</td>
     </tr>
@@ -31,6 +31,10 @@
     <tr>
       <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent">text-indent</a></td>
       <td>Specifies the indentation of the first line in a text-block.</td>
+    </tr>
+    <tr>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow">text-shadow</a></td>
+      <td>Adds shadows to text.</td>
     </tr>
     <tr>
       <th scope="row" rowspan="2">Font</th>
