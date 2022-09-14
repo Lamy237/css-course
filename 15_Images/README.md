@@ -1,3 +1,5 @@
+**Note :** The `img` folder does not contain all the images. I was unable to upload the ***map*** image because it is larger than 25MB (*can fix this using bash*).
+
 ## Image Properties
 
 | Property | Function |
