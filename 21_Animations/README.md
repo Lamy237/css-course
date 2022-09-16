@@ -34,6 +34,28 @@ selector {
 ```
 
 
+## CSS Animations
+**CSS animations** make it possible to animate transitions from one CSS style configuration to another.
+
+### Animation sub-properties
+| Property | Use |
+|----------|-----|
+|[`animation-name`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name) | Specifies the name of the @keyframes at-rule describing an animation's keyframes. |
+|[`animation-duration`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration) | Sets the length of time that an animation takes to complete one cycle. |
+|[`animation-timing-function`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function) | Sets how an animation progresses through the duration of each cycle. |
+|[`animation-delay`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay) | Specifies the amount of time to wait before beginning to perform the animation. |
+|[`animation-iteration-count`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count) | Specifies the number of times an animation should repeat. |
+|[`animation-direction`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction) | Defines whether an animation should be played forwards, backwards or in alternate cycles. |
+|[`animation-fill-mode`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode) | Specifies how an animation applies styles to its target before and after it runs. |
+
+### Shorthand
+```css
+selector {
+  animation: duration timing-function delay iteration-count direction fill-mode name;
+}
+```
+
+
 ## 📚 References
 
 - 🔗 [MDN: CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
