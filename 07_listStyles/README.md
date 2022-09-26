@@ -13,6 +13,6 @@ The following shorthand allows us to set all three (03) properties at once : `li
 
 We can configure a list marker by using the pseudo-element [`::marker`](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker). (*See code*)
 
-## References
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists).
-- Watch this YouTube tutorial from [Dave Gray](https://www.youtube.com/watch?v=jcThx0U066w).
+## 📚 References
+- 🔗 [MDN: Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists).
+- 📺 Watch this [YouTube tutorial](https://www.youtube.com/watch?v=jcThx0U066w) from Dave Gray.
