@@ -12,6 +12,6 @@ We can style links in CSS by selecting the anchor tag (*element selector*) often
 | `a:active`      | A link that is activated (*by clicking on it*)        |
 
 
-## References
+## 📚 References
 
-Check out this tutorial on <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links"><abbr title="Mozilla Developer Network">MDN</abrr></a>.
+- 🔗 [MDN: Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
