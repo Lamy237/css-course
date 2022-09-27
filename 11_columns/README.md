@@ -13,6 +13,7 @@
 **Note :** The properties `column-count` and `column-width` can be set at once with the shorthand `columns: count width;`
 
 
-## References
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Basic_Concepts_of_Multicol).
-- Watch this [YouTube tutorial](https://www.youtube.com/watch?v=f0A7moLkAL0&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit&index=12) by Dave Gray.
+## 📚 References
+- 🔗 [MDN: Basic concepts of multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Basic_Concepts_of_Multicol)
+- 🔗 [MDN: Margin Collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+- 📺 Watch this [YouTube tutorial](https://www.youtube.com/watch?v=f0A7moLkAL0&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit&index=12) by Dave Gray
