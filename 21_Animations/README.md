@@ -14,6 +14,14 @@ The **transform** property lets you rotate, scale, skew, or translate an element
 |[`skewX()`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewX) | Makes the item look like a parallelogram along the x-axis. |
 |[`skewY()`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewY) | Makes the item look like a parallelogram along the y-axis. |
 
+### Shorthands
+
+```css
+transform: translate(X, Y) /* for translateX() and translateY() */
+transform: scale(X, Y)     /* for scaleX() and scaleY() */
+transform: skew(X, Y)      /* for skewX() and skewY() */
+```
+
 
 ## CSS Transitions
 **CSS transitions** provide a way to control animation speed when changing CSS properties.
@@ -29,6 +37,7 @@ The **transform** property lets you rotate, scale, skew, or translate an element
 ### Shorthand
 ```css
 selector {
+  transition: property duration delay;
   transition: property duration timing-function delay;
 }
 ```
