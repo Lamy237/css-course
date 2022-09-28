@@ -25,6 +25,8 @@ A **Pseudo-element** is a keyword added to a selector that lets you style a spec
 |------|----------|
 |[`::after`](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) | Inserts something after the content of each selected element(s). |
 |[`::before`](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) | Inserts something before the content of each selected element(s). |
+|[`::first-letter`](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter) | Applies styles to the first letter of the first line of a block-level element. |
+|[`::first-line`](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-line) | Applies styles to the first line of a block-level element. |
 
 
 ## 📚 References
