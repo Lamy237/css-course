@@ -60,6 +60,7 @@ selector {
 ### Shorthand
 ```css
 selector {
+  animation: name duration timing-function delay fill-mode;
   animation: duration timing-function delay iteration-count direction fill-mode name;
 }
 ```
