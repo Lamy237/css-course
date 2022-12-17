@@ -8,20 +8,21 @@
 
 The following shorthand allows us to set all three (03) properties at once : `list-style: type image position;`
 
-## Important Note
-The [`start`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol#attr-start) attribute can be used in the **HTML** to set from where an ordered list should start. (_From 1 by default_)
+## Important Notes
+- The [`start`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol#attr-start) attribute can be used in the **HTML** to set where an ordered list should start counting from. (_From 1 by default_)
+- The [`value`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li#attr-value) attribute can be used set the value of a list item. The following list items will increment from that number (_[See also](https://www.w3schools.com/tags/att_li_value.asp)_).
 ```html
 <!-- Looks like the 'reversed' attribute does not respond in markdown files -->
 <ol start="5" reversed>
   <li>Step One</li>
-  <li>Step Two</li>
+  <li value="26">Step Two</li>
   <li>Step Three</li>
 </ol>
 ```
 
 <ol start="5" reversed>
   <li>Step One</li>
-  <li>Step Two</li>
+  <li value="26">Step Two</li>
   <li>Step Three</li>
 </ol>
 
