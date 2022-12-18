@@ -16,5 +16,12 @@ In this chapter, we are only going to talk about **block** and **inline**. **Fle
 - We can't apply a top or bottom `margin` to an inline elememt.
 - We can't apply a `height` to an inline element.
 - This can be solved by setting the `display` property to **inline-block**.
+- The **inline-block** comes in handy when we want to style a link into a button or turn a list into a row (_Ex: In a nav menu_).
 
 The property `margin-inline` only applies some margin to the left and to right.
+
+
+## 📚 References
+
+- 🔗 [MDN: Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- 📺 Watch this [YouTube tutorial](https://youtu.be/naTAFo2Gyus) by Dave Gray
