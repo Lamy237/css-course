@@ -22,6 +22,7 @@
 |[flex-grow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow) | Sets the flex grow factor of a flex item's main size. |
 |[flex-shrink](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink) | Sets the flex shrink factor of a flex item. (*Remember to set* `flex-wrap` *to* ***nowrap***). |
 |[gap](https://developer.mozilla.org/en-US/docs/Web/CSS/gap) | Sets the gaps between flex-items. (*Mostly used with grids*) |
+|[order](https://developer.mozilla.org/en-US/docs/Web/CSS/order) | Sets the order to lay out an item in a flex or grid container. |
 
 ## Shorthands
 ### flex-flow
