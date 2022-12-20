@@ -21,5 +21,5 @@ The different types of positioning include:
 
 ## References
 
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning).
-- Watch this [YouTube tutorial](https://youtu.be/zqg4A6g9GfA) by Dave Gray.
+- 🔗 [MDN: Position](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+- 📺 Watch this [YouTube tutorial](https://youtu.be/zqg4A6g9GfA) by Dave Gray
