@@ -13,6 +13,7 @@ A **Pseudo-class** is selector that selects elements that are in a specific stat
 |[`:any-link`](https://developer.mozilla.org/en-US/docs/Web/CSS/:any-link) | Matches an element if the element would match either `:link` or `:visited`. |
 |[`:where`](https://developer.mozilla.org/en-US/docs/Web/CSS/:where) | Takes a selector list as its argument, and selects any element that can be selected by one of the selectors in that list. |
 |[`:target`](https://developer.mozilla.org/en-US/docs/Web/CSS/:target) | Matches the element which is the target of the document URL. |
+|[`:not`](https://developer.mozilla.org/en-US/docs/Web/CSS/:not) | Matches every element that is NOT the specified element/selector. |
 |[`:nth-child`](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child) | Matches elements based on their position among a group of siblings. |
 
 
